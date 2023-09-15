@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Jogo_da_velha
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.lang.String\ XO(int)
+comment3.params=a1\ a2\ a3\ b1\ b2\ b3\ c1\ c2\ c3
+comment3.target=void\ Tabuleiro(byte,\ byte,\ byte,\ byte,\ byte,\ byte,\ byte,\ byte,\ byte)
+numComments=4
